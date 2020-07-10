@@ -1,0 +1,21 @@
+[submodule "layouts-ctrl"]
+	path = layouts-ctrl
+	url = git@github.com:willwm/layouts-ctrl.git
+[submodule "layouts-model01"]
+	path = layouts-model01
+	url = git@github.com:willwm/layouts-model01.git
+[submodule "layouts-melody96"]
+	path = layouts-melody96
+	url = git@github.com:willwm/layouts-melody96.git
+[submodule "layouts-novelpad"]
+	path = layouts-novelpad
+	url = git@github.com:willwm/layouts-novelpad.git
+[submodule "layouts-levinson"]
+	path = layouts-levinson
+	url = git@github.com:willwm/layouts-levinson.git
+[submodule "layouts-tada68"]
+	path = layouts-tada68
+	url = git@github.com:willwm/layouts-tada68.git
+[submodule "layouts-ergodox"]
+	path = layouts-ergodox
+	url = git@github.com:willwm/layouts-ergodox.git
